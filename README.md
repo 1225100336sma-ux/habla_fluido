@@ -66,13 +66,6 @@ Dices la frase en inglés antes de ver la respuesta y te autocalificas.
 
 # Pruebas TDD 
 
-## Cómo se capturó
-
-Para cada ronda:
-1. 🔴 ROJO: se escondió temporalmente la implementación y se ejecutó la prueba.
-2. 🟢 VERDE: se restauró el código y volvió a pasar.
-3. 🔵 REFACTOR: se revisó con `flutter analyze`.
-
 ## Ronda 2 — Comparador
 
 Archivo: `test/comparador_test.dart`
